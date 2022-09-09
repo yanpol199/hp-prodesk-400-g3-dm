@@ -1,25 +1,21 @@
 # HP ProDesk 400 G3 DM
 **Product Specification:**
 
-CPU:Intel Core i7-7820HK(aka:QL3X)
+CPU: Intel Core i3 7100
 
-Storage:WD BLACK_SN750
+Storage: SATA and NWME
 
-Memory:Samsung 16G DDR4 2667Mhz
+Memory: 8G DDR4 2666Mhz
 
-Ethernet:Realtek RTL8111 Gbe LOM network connection
+Ethernet: Realtek RTL8111
 
-Audio:Conexant CX20632 Audio Codec
+Audio:Conexant CX20632
 
-Graphics:Intel HD 620
+Graphics:Intel HD 630
 
-WiFi:Broadcom BCM94352Z
+WiFi: Apple Broadcom BCM94360CS2
 
-Current OS:macOS Monterey 12.2
-
-![Xnip2022-01-15_09-25-11](https://user-images.githubusercontent.com/68485816/149603597-81a383f4-6193-4613-96b7-0467350d256f.jpg)
-
-
+Current OS: macOS Ventura 13b6
 
 ### Known issues
 
