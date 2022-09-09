@@ -3,7 +3,7 @@
 
 CPU: Intel Core i3 7100
 
-Storage: SATA and NWME
+Storage: SATA and NVME
 
 Memory: 8G DDR4 2666Mhz
 
@@ -13,7 +13,7 @@ Audio: Conexant CX20632
 
 Graphics: Intel HD 630
 
-WiFi: Apple Broadcom BCM94360CS2
+WiFi: Intel3165 noBT
 
 Current OS: macOS Ventura 13b6
 
