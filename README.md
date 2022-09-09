@@ -9,9 +9,9 @@ Memory: 8G DDR4 2666Mhz
 
 Ethernet: Realtek RTL8111
 
-Audio:Conexant CX20632
+Audio: Conexant CX20632
 
-Graphics:Intel HD 630
+Graphics: Intel HD 630
 
 WiFi: Apple Broadcom BCM94360CS2
 
@@ -19,8 +19,7 @@ Current OS: macOS Ventura 13b6
 
 ### Known issues
 
- - RTC Error after every boot(but works)
+ - need more tests
 
 
 By [@HawkysCC](https://github.com/HawkysCC)
-
