@@ -1,7 +1,7 @@
 # HP ProDesk 400 G3 DM
 **Product Specification:**
 
-CPU: Intel Core i3 7100
+CPU: Intel Kabylake
 
 Storage: SATA and NVME
 
@@ -13,7 +13,7 @@ Audio: Conexant CX20632
 
 Graphics: Intel HD 630
 
-WiFi: Intel 3165
+WiFi: Apple Broadcom BCM94360CS2
 
 Current OS: macOS Ventura 13b6
 
