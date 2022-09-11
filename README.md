@@ -1,26 +1,22 @@
 # HP ProDesk 400 G3 DM
 **Product Specification:**
 
-CPU: Intel Kabylake
+CPU: Intel Kabylake i3, i5, i7
 
 Storage: SATA and NVME
 
-Memory: 8G DDR4 2666Mhz
+Memory: 2 slots for DDR4 2400+ SO-DIMM
 
 Ethernet: Realtek RTL8111
 
 Audio: Conexant CX20632
 
-Graphics: Intel HD 630
+Graphics: only Intel HD 630 (HD610 in pentiums and celerons not work)
 
-WiFi: Apple Broadcom BCM94360CS2
+WiFi: advisable for stable using Apple Broadcom BCM94360CS2
 
-Current OS: macOS Ventura 13b6
+Current tested OS: macOS Ventura 13b7
 
 ### Known issues
 
  - need more tests
-
-
-
-By [@HawkysCC](https://github.com/HawkysCC)
