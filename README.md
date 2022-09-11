@@ -15,8 +15,8 @@ Graphics: only Intel HD 630 (HD610 in pentiums and celerons not work)
 
 WiFi: advisable for stable using Apple Broadcom BCM94360CS2
 
-Current tested OS: macOS Ventura 13b7
+Current tested OS: macOS 10.15,macOS11,macOS12 and macOS13
 
 ### Known issues
 
- - need more tests
+ - after sleep black display
