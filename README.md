@@ -15,7 +15,7 @@ Graphics: only Intel HD 630 (HD610 in pentiums and celerons not work)
 
 WiFi: advisable for stable using Apple Broadcom BCM94360CS2
 
-Current tested OS: macOS 10.15,macOS11,macOS12 and macOS13
+Current tested OS: new install only macOS 10.15, upgrade to macOS11-macOS13
 
 ### Known issues
 
