@@ -114,6 +114,10 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AAASWQ==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-flags</key>
+				<data>jwEAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 			</dict>
