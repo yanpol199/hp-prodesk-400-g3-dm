@@ -21,4 +21,4 @@ Current loader: OpenCore v0.8.6
 
 ### Known issues
 
- - after sleep black display on HDMI, but VGA work well
+ - after sleep black display on DP port, but VGA work well
