@@ -15,10 +15,10 @@ Graphics: only Intel HD 630 (HD610 in pentiums and celerons not work)
 
 WiFi: advisable for stable using Apple Broadcom BCM94360CS2
 
-Current tested OS: new install only macOS 10.15, upgrade to macOS11-macOS13.0.1
+Current tested OS: macOS 10.15-macOS13.0.1
 
 Current loader: OpenCore v0.8.6
 
 ### Known issues
 
- - after sleep black display on DP port, but VGA work well
+ - after sleep black display
